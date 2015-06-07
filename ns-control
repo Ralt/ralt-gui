@@ -7,17 +7,16 @@ Priority: optional
 Standards-Version: 3.9.2
 
 Package: ralt-gui
-Version: 1.0
 # Maintainer: Your Name <yourname@example.com>
 # Pre-Depends: <comma-separated list of packages>
-Depends: iceweasel, emacs24, chromium, vlc, transmission
+Depends: iceweasel, emacs24, chromium, vlc, transmission, hipchat, evolution, skype
 # Recommends: <comma-separated list of packages>
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 # Architecture: all
 # Copyright: <copyright file; defaults to GPL2>
-# Changelog: <changelog file; defaults to a generic changelog>
+Changelog: debian/changelog
 # Readme: <README.Debian file; defaults to a generic one>
 # Extra-Files: <comma-separated list of additional files for the doc directory>
 # Files: <pair of space-separated paths; First is file to include, second is destination>

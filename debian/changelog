@@ -1,0 +1,6 @@
+ralt-gui (1.0-2) UNRELEASED; urgency=medium
+
+  * Initial release.
+  * Adds missing GUI packages.
+
+ -- Florian Margaine <florian@margaine.com>  Sun, 07 Jun 2015 21:36:55 +0000
