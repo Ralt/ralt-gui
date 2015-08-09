@@ -7,10 +7,10 @@ Priority: optional
 Standards-Version: 3.9.2
 
 Package: ralt-gui
-Version: 1.0-4
+Version: 1.0-5
 Maintainer: Florian Margaine <florian@margaine.com>
 # Pre-Depends: <comma-separated list of packages>
-Depends: iceweasel, chromium, vlc, transmission, hipchat, evolution, skype:i386
+Depends: iceweasel, chromium, vlc, transmission, hipchat, evolution, skype:i386, virtualbox, libreoffice
 # Recommends: <comma-separated list of packages>
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
